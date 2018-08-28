@@ -1,2 +1,2 @@
 # 3DModels
-3D models
+This contains the 3d models that will be used for making with meaning. 
